@@ -9,3 +9,7 @@
 6/3/25 began modeling the case, fit the case to the PCB and keys -- 1 hour\
     some stuff isn't quite accurate, and just a box right now\
     ![Model so far](./06-03-25-1.jpg)\
+6/4/25 started on the software for the keypad -- 30 minutes\
+6/4/25 continued working on the model -- 30 minutes\
+    added some depressions for the keys\
+    ![changes made](./06-04-25.jpg)
