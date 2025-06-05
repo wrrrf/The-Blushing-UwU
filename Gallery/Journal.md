@@ -7,4 +7,5 @@
 6/3/25 moved all components except for some pcb routes to the front of the pcb -- 5 minutes\
     ![Components moved to front](./06-03-25.jpg)\
 6/3/25 began modeling the case, fit the case to the PCB and keys -- 1 hour\
+    some stuff isn't quite accurate, and just a box right now\
     ![Model so far](./06-03-25-1.jpg)\
