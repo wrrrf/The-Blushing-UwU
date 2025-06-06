@@ -1,3 +1,10 @@
+---
+title: "Your Project Name"
+author: "Dylan Xiang and Mengde Lin"
+description: "Describe your project in a short sentence!"
+created_at: "2025-06-02"
+---
+
 6/2/2025 made the 1st prototype pcb for the keypad -- 3 hours\
     3 key keypad, 2 LEDs, using the Seeed studio XIAO RP 2040 DIP as the primary chip\
     ![Initial PCB Design](./06-02-25.jpg)\
