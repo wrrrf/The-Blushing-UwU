@@ -1,7 +1,7 @@
 ---
-title: "Your Project Name"
+title: "The Blushing UwW"
 author: "Dylan Xiang and Mengde Lin"
-description: "Describe your project in a short sentence!"
+description: "A keypad that blushes more the faster you tap"
 created_at: "2025-06-02"
 ---
 
