@@ -20,3 +20,6 @@ created_at: "2025-06-02"
 6/4/25 continued working on the model -- 30 minutes\
     added some depressions for the keys\
     ![changes made](./06-04-25.jpg)
+6/6/25 did some more stuff with the model, namely mated everything in onshape so that i could test the fit of things and whether or not the keys had enough space to move\
+    probably wasn't neccesary . . .
+    ![they be stickin out](./06-06-25.jpg)
