@@ -25,8 +25,8 @@ created_at: "2025-06-02"
     ![they be stickin out](Gallery/06-06-25.jpg)
 6/6/25 made the whole thing thicker so the switches stick out less
     ![the no longer be stickin out](Gallery/06-06-25-1.jpg)
-6/7/25 decided to make a case that looked like maomao from apothecary diaries
+6/7/25 decided to make a case that looked like maomao from apothecary diaries\
     ![weeb](Gallery/finished_case.jpg)
-    also needed a differently shaped pcb
+    also needed a differently shaped pcb\
     ![it looks like a thing that jinshi supposedly does not have](Gallery/finished_pcb.jpg)
 
