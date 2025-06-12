@@ -7,3 +7,6 @@ In the end I decided to have maomao from apothecary diaries as my keypad and the
 ![finished keypad case](Gallery/finished_case.jpg)\
 the pcb:
 ![finished pcb](Gallery/finished_pcb.jpg)
+
+|Part No.|Quantity|Item|Description|
+------------------------------------
