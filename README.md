@@ -1,5 +1,4 @@
-# The-Blushing-UwU
-for the record it was mengde's idea \
+# Keypad
 Our project is a keypad for the rhythm game osu! that has leds that get brighter the faster you tap, these leds would be behind eyes or a blush or something so whatever we end up plastering on our keypad will have its eyes get brighter / blush harder when you tap faster. 
 We made the project because we got bored over the summer and I also happen to want a keypad to play osu because my current keyboard is quite low quality.
 
