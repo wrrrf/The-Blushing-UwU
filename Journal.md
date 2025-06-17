@@ -1,7 +1,7 @@
 ---
-title: "The Blushing UwW"
+title: "Keypad"
 author: "Dylan Xiang and Mengde Lin"
-description: "A keypad that blushes more the faster you tap"
+description: "A keypad that lights up more the faster you tap"
 created_at: "2025-06-02"
 ---
 
