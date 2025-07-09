@@ -31,4 +31,7 @@ Total time -- 7.5 hours
     ![weeb](Gallery/finished_case.jpg)\
     also needed a differently shaped pcb\
     ![it looks like a thing that jinshi supposedly does not have](Gallery/finished_pcb.jpg)
+7/8/25 test printed the case, the hole for the usb cable was too small, increased the size of said hole -- 20 minutes \
+    ![before](Gallery/old.jpg)
+    ![after](Gallery/enlarged.jpg)
 
